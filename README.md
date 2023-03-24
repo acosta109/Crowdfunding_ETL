@@ -17,3 +17,5 @@ we extracted data in the following order
 
 
 After we did our ETL, we related all the tables with the name 'crowdfunding_db_schema.sql' and uploaded to postgres SQL under the name "crowdfunding_db" and included SELECT * statements of each table 
+
+[](images/campaign%20SQL%20query.png)
