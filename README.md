@@ -18,4 +18,12 @@ we extracted data in the following order
 
 After we did our ETL, we related all the tables with the name 'crowdfunding_db_schema.sql' and uploaded to postgres SQL under the name "crowdfunding_db" and included SELECT * statements of each table 
 
-![](campaign%20SQL%20query.png)
+list of screenshots for the SQL portion:
+
+![crowdfunding_db_schema sql_screenshot](images/crowdfunding_db_schema.sql_screenshot.png)
+
+![campaign_SQL_query](images/campaign_SQL_query.png)
+![cateogory sql query](images/cateogory%20sql%20query.png)
+![contacts sql query](main/images/contacts%20sql%20query.png)
+![subcategory sql query](main/images/subcategory%20sql%20query.png)
+
