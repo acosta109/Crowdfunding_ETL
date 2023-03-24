@@ -24,6 +24,6 @@ list of screenshots for the SQL portion:
 
 ![campaign_SQL_query](images/campaign_SQL_query.png)
 ![cateogory sql query](images/cateogory%20sql%20query.png)
-![contacts sql query](main/images/contacts%20sql%20query.png)
-![subcategory sql query](main/images/subcategory%20sql%20query.png)
+![contacts sql query](images/contacts%20sql%20query.png)
+![subcategory sql query](images/subcategory%20sql%20query.png)
 
